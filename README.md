@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ThomasRobertson
-- Pharmacy Student 4th year @ Faculté de Pharmacie | Université Paris-Saclay
+- 💊 Pharmacy Student 4th year | Faculté de Pharmacie @ Université Paris-Saclay
+- 💻 42's Paris Student | 2022/02 Piscine
 
 <!---
 ThomasRobertson/ThomasRobertson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
