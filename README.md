@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasRobertson
-- 💊 Pharmacy Student 4th year | Faculté de Pharmacie @ Université Paris-Saclay
+- 💊 Pharmacy Student 5th year | Faculté de Pharmacie @ Université Paris-Saclay
 - 💻 42 Paris Student | 2022/02 Piscine
 
 <!---
