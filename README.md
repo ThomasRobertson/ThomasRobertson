@@ -8,6 +8,7 @@
 
 No | Project | Status | Grade
 ---: | --- | :---: | :---:
+0.1 | [piscine](../../../42-piscine) | ✔️ | ✔️
 1.1 | [libft](../../../42-libft) | ✔️ | 125/100
 2.1 | [ft_printf](../../../42-ft_printf) | ✔️ | 100/100
 2.2 | [get_next_line](../../../42-get_next_line) | ✔️ | 125/100
