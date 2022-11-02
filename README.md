@@ -14,6 +14,6 @@ No | Project | Status | Grade
 1.1 | [get_next_line](../../../42-get_next_line) | ✔️ | 125/100
 1.2 | born2beroot | ✔️ | 125/100
 2.0 | [push_swap](../../../42-push_swap) | ✔️ | 125/100
-2.1 | [pipex](../../../42-pipex) | 🖊️ | ...
+2.1 | [pipex](../../../42-pipex) | ✔️ | 125/100
 2.2 | [fdf](../../../42-fdf) | 🖊️ | ...
 2.3 | exam-rank-02 | ✔️ | 100/100
