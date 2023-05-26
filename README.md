@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ThomasRobertson
-- 💊 Pharmacy Student 5th year | Faculté de Pharmacie @ Université Paris-Saclay
-- 💻 42 Paris Student | 2022/02 Piscine
+<div align="center">
+
+| - 👋 Hi, I’m @ThomasRobertson |
+| :---------------------------------------- |
+| - 💊 Pharmacy Student @ Université Paris-Saclay |
+| - 💻 42 Paris Student - 2022/02 Piscine |
+
 
 ## 42 Project
-
-[![troberts's 42 stats](https://badge.mediaplus.ma/darkgrey/troberts?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 No | Project | Status | Grade
 :---: | --- | :---: | :---:
@@ -23,3 +25,4 @@ No | Project | Status | Grade
 4.0 | cub3D | ✔️ | 115/100
 4.1 | NetPractice | ✔️ | 100/100
 4.2 | [CPP modules](../../../42-cpp-modules) | 🖊️ | ...
+</div>
