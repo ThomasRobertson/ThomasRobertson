@@ -3,7 +3,8 @@
 | - 👋 Hi, I’m @ThomasRobertson |
 | :---------------------------------------- |
 | - 💊 Pharmacy Student @ Université Paris-Saclay |
-| - 💻 42 Paris Student - 2022/02 Piscine |
+| - 💻 Computer Science Student (Master SIO) @ CentraleSupelec |
+| - 👨‍💻 Developer Student @ 42 Paris - 2022/02 Piscine |
 
 
 ## 42 Project
