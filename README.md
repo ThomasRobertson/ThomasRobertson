@@ -27,6 +27,7 @@ No | Project | Status | Grade
 4.1 | NetPractice | ✔️ | 100/100
 4.2 | [CPP modules](../../../42-cpp-modules) | ✔️ | 100/100
 5.0 | [CPP modules](../../../42-cpp-modules) | ✔️ | 100/100
-5.1 | Inception | 🖊️ | ...
-5.2 | Webserv | 🖊️ | ...
+5.1 | Webserv | ✔️ | 125/100
+5.2 | Inception | 🖊️ | ...
+
 </div>
