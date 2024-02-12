@@ -24,10 +24,10 @@ No | Project | Status | Grade
 3.1 | [minishell](https://github.com/Wolran/minishell) | ✔️ | 100/100
 3.2 | exam-rank-03 | ✔️ | 100/100
 4.0 | cub3D | ✔️ | 115/100
-4.1 | NetPractice | ✔️ | 100/100
-4.2 | [CPP modules](../../../42-cpp-modules) | ✔️ | 100/100
-5.0 | [CPP modules](../../../42-cpp-modules) | ✔️ | 100/100
-5.1 | Webserv | ✔️ | 125/100
-5.2 | Inception | 🖊️ | ...
+4.1 | netPractice | ✔️ | 100/100
+4.2 | [cpp modules](../../../42-cpp-modules) | ✔️ | 100/100
+5.0 | [cpp modules](../../../42-cpp-modules) | ✔️ | 100/100
+5.1 | [webserv](../../../42-webserv) | ✔️ | 125/100
+5.2 | inception | 🖊️ | ...
 
 </div>
