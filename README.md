@@ -26,7 +26,7 @@ No | Project | Language | Tool/skills used | Status | Grade
 4.1 | netPractice | - | networks, switch, IP, rooting | ✔️ | 100/100
 4.2 | [cpp modules](../../../42-cpp-modules) | C++ | OOP, polymorphism, overloading, inheritance | ✔️ | 100/100
 5.0 | [cpp modules](../../../42-cpp-modules) | C++ | OOP, templates, standards containers, iterators, sorting algorithms  | ✔️ | 100/100
-5.1 | [webserv](../../../42-webserv) | C++ | network, HTTP, | ✔️ | 125/100
+5.1 | [webserv](../../../42-webserv) | C++ | network, HTTP, sockets, CGI | ✔️ | 125/100
 5.2 | inception | - | docker, containers | 🖊️ | ...
 
 ## Other projects
