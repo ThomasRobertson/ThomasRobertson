@@ -2,6 +2,7 @@
 
 | - 👋 Hi, I’m @ThomasRobertson |
 | :---------------------------------------- |
+| - 💻 Software Engineer Intern @ [Louise](https://github.com/louise-life) |
 | - 💊 Pharmacy Student @ Université Paris-Saclay |
 | - 💻 Computer Science Student (Master SIO) @ CentraleSupelec |
 | - 👨‍💻 Developer Student @ 42 Paris - 2022/02 Piscine |
@@ -27,7 +28,8 @@ No | Project | Language | Tool/skills used | Status | Grade
 4.2 | [cpp modules](../../../42-cpp-modules) | C++ | OOP, polymorphism, overloading, inheritance | ✔️ | 100/100
 5.0 | [cpp modules](../../../42-cpp-modules) | C++ | OOP, templates, standards containers, iterators, sorting algorithms  | ✔️ | 100/100
 5.1 | [webserv](../../../42-webserv) | C++ | network, HTTP, sockets, CGI | ✔️ | 125/100
-5.2 | inception | - | docker, containers | 🖊️ | ...
+5.2 | inception | - | docker, containers | ✔️ | 125/100
+6.0 | transcendance | Python, JS | django, rabbitmq, grafana, docker, restapi, postegresql | ✔️ | 115/100
 
 ## Other projects
 
