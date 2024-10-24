@@ -1,10 +1,12 @@
 <div align="center">
 
-| - 👋 Hi, I’m @ThomasRobertson |
+| 👋 Hi, I’m @ThomasRobertson |
 | :---------------------------------------- |
-| - 💻 Software Engineer Intern @ [Louise](https://github.com/louise-life) |
+| - 💻 Software Engineer @ [Louise](https://github.com/louise-life) |
+| |
+| **Studied at :** |
 | - 💊 Pharmacy Student @ Université Paris-Saclay |
-| - 💻 Computer Science Student (Master SIO) @ CentraleSupelec |
+| - 💻 Computer Science Student (MS SIO) @ CentraleSupelec |
 | - 👨‍💻 Developer Student @ 42 Paris - 2022/02 Piscine |
 
 ## 42 Project
@@ -29,12 +31,12 @@ No | Project | Language | Tool/skills used | Status | Grade
 5.0 | [cpp modules](../../../42-cpp-modules) | C++ | OOP, templates, standards containers, iterators, sorting algorithms  | ✔️ | 100/100
 5.1 | [webserv](../../../42-webserv) | C++ | network, HTTP, sockets, CGI | ✔️ | 125/100
 5.2 | inception | - | docker, containers | ✔️ | 125/100
-6.0 | transcendance | Python, JS | django, rabbitmq, grafana, docker, restapi, postegresql | ✔️ | 115/100
+6.0 | transcendance | Python, JS | django, rabbitmq, grafana, docker, RESTApi, postegresql | ✔️ | 115/100
 
 ## Other projects
 
 Project | Description | Language | Tool/skills used
  --- | :---: | :---: | :---:
-[arXiv-api-extraction](../../../arXiv-api-extraction) | Harvest papers from arXiv into a graph database and create an API endpoint to process requests | Python | containers, CI/CD, unit tests, OpenAPI, graph database (neo4j)
+[arXiv-api-extraction](../../../arXiv-api-extraction) | Harvest papers from arXiv into a graph database and create an API endpoint to process requests | Python | fastapi, containers, CI/CD pipelines, unit tests, OpenAPI, graph database (neo4j)
 
 </div>
